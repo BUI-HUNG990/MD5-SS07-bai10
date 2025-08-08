@@ -6,7 +6,7 @@ public class DBUtil {
     private static final String DRIVER = "com.mysql.cj.jdbc.Driver";
     private static final String URL = "jdbc:mysql://localhost:3306/md05_ss07_db";
     private static final String USER = "root";
-    private static final String PASS = "quxTNL43@";
+    private static final String PASS = "12345678";
 
     public static Connection openConnection() {
         try {
